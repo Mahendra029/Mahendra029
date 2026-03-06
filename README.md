@@ -9,10 +9,12 @@ Full Stack Developer with 1.6+ years of professional experience building scalabl
 
 <p align="center">
 📍 Andhra Pradesh, India <br>
-🚀 Experienced in React.js, Node.js, REST APIs, Authentication & Database Design
 </p>
 
 ---
+<h2>
+Technical Skills:
+</h>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
