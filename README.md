@@ -1,6 +1,21 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-###
+<h3 align="center">I'm Mahendra Bandi</h3>
+
+<p align="center">
+Full Stack Developer with 1.6+ years of professional experience building scalable web applications.
+</p>
+
+<p align="center">
+💻 Full Stack Developer | MERN Stack | React | Node.js | MongoDB
+</p>
+
+<p align="center">
+📍 Andhra Pradesh, India <br>
+🚀 Experienced in React.js, Node.js, REST APIs, Authentication & Database Design
+</p>
+
+---
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -48,29 +63,41 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://linkedin.com/in/mahendra-bandi-0b1016285">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+
+  <a href="mailto:bandimahendra029@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+
+ <a href="mailto:mahendra@zenbeta.ai">
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&color=0078D4&logoColor=white&style=for-the-badge" height="25"/>
+</a>
+
+<a href="https://wa.me/919390078176">
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="25"/>
+</a>
+
+<a href="https://instagram.com/mahix29_">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
+</a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahendra029&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Mahendra029&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=Mahendra029&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app?username=Mahendra029&theme=dracula&column=6&row=1" height="150"/>
 </div>
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahendra029/Mahendra029/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahendra029/Mahendra029/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mahendra029/Mahendra029/output/pacman-contribution-graph.svg">
 </picture>
-
-###
