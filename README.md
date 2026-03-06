@@ -76,7 +76,6 @@ I'm a Full Stack Developer with **1.6+ years** of professional experience in bui
 </div>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahendra029&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
     <img src="https://github-profile-trophy.vercel.app?username=Mahendra029&theme=radical&column=3&margin-w=15&margin-h=15&no-frame=true" height="150"/>
 </div>
 
@@ -117,9 +116,7 @@ I'm a Full Stack Developer with **1.6+ years** of professional experience in bui
 ## 🐍 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahendra029/Mahendra029/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahendra029/Mahendra029/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mahendra029/Mahendra029/output/pacman-contribution-graph.svg">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahendra029&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 </picture>
 
 ---
