@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-I'm a passionate Full Stack Developer with **1.6+ years** of professional experience crafting robust web applications. Based in the beautiful state of **Andhra Pradesh, India**, I thrive on solving complex problems and building seamless digital experiences.
+I'm a Full Stack Developer with **1.6+ years** of professional experience in building scalable web applications. I specialize in creating efficient, user-centric solutions that solve real-world problems.
 
 - 🎓 **Education:** Bachelor of Technology
 - 💼 **Current Role:** Full Stack Developer at ZenBeta Technologies Pvt Ltd
@@ -65,7 +65,7 @@ I'm a passionate Full Stack Developer with **1.6+ years** of professional experi
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahendra029&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=Mahendra029&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
 </div>
 
 <br/>
@@ -76,8 +76,8 @@ I'm a passionate Full Stack Developer with **1.6+ years** of professional experi
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mahendra029&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app?username=Mahendra029&theme=radical&column=3&margin-w=15&margin-h=15&no-frame=true" height="150"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahendra029&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <img src="https://github-profile-trophy.vercel.app?username=Mahendra029&theme=radical&column=3&margin-w=15&margin-h=15&no-frame=true" height="150"/>
 </div>
 
 ---
