@@ -1,7 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-<h3 align="center">I'm Mahendra Bandi</h3>
-
+<h1 align="center">I'm Mahendra Bandi</h1>
 <p align="center">
 Full Stack Developer with 1.6+ years of professional experience building scalable web applications.
 </p>
