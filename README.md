@@ -105,11 +105,11 @@ I'm a passionate Full Stack Developer with **1.6+ years** of professional experi
 ### 📥 Download My Resume
 
 <div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" height="40"/>
+  <a href="https://drive.google.com/file/d/161po3Q1zwqc4fUXIac-Lb69ZwWScUcQ0/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" height="45"/>
   </a>
   <br/>
-  <sub>⬆️ Click above to get my detailed resume with work experience and projects</sub>
+  <sub>⬆️ Click above to view/download my detailed resume with work experience and projects</sub>
 </div>
 
 ---
