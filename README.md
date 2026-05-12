@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-I'm a Full Stack Developer with **1.6+ years** of professional experience in building scalable web applications. I specialize in creating efficient, user-centric solutions that solve real-world problems.
+I'm a Full Stack Developer with **2+ years** of professional experience in building scalable web applications. I specialize in creating efficient, user-centric solutions that solve real-world problems.
 
 - 🎓 **Education:** Bachelor of Technology
 - 💼 **Current Role:** Full Stack Developer at ZenBeta Technologies Pvt Ltd
